@@ -1,0 +1,12 @@
+{'name': 'Portal User for Partner',
+ 'summary': 'Action to create portal user from partner',
+ 'author': 'Erlangga Indra Permana',
+ 'website': 'https://erlaangga.github.io',
+ 'version': '1.0',
+ 'category': 'Tools',
+ 'depends': ['base'],
+ 'license': 'LGPL-3',
+ 'data': ['data/data.xml',],
+ 'images': [],
+ 'qweb': [],
+}
