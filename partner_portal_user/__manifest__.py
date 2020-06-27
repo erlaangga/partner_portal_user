@@ -7,6 +7,6 @@
  'depends': ['base'],
  'license': 'LGPL-3',
  'data': ['data/data.xml',],
- 'images': [],
+ 'images': ['static/description/create_user.png'],
  'qweb': [],
 }
